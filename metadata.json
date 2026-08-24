@@ -1,0 +1,6 @@
+{
+  "name": "PixelGmi",
+  "description": "Minimalist AI Image Generator with ClipDrop multi-key auto-rotation pool and ChatGPT-style generation animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
